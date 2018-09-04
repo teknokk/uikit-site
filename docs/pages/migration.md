@@ -1,6 +1,6 @@
 # Migrate to UIkit 3
 
-<p class="uk-text-lead">Migrate an existing UIkit 2 website to the new UIkit 3.</p>
+<p class="uk-text-lead">Migrate an existing UIkit 2 website to the new UIkit 3.</p
 
 Uikit 3 offers a migration tool that runs in your browser and lists all necessary changes from an existing Uikit 2 site. Two options are available to run the tool: Via a bookmark or by including a single JavaScript file. The necessary migration changes are then listed in your browser's console.
 
